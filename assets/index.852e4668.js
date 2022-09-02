@@ -1,0 +1,1 @@
+import{R as e,j as s}from"./index.1a960ee0.js";import{E as r}from"./index.ab4d1856.js";var a="/Users/wjl/web-front-end/TDesign/tdesign-react-starter/src/pages/Result/404/index.tsx";const o=()=>s.exports.jsxDEV(r,{code:404},void 0,!1,{fileName:a,lineNumber:4,columnNumber:24},globalThis);var m=e.memo(o);export{m as default};
